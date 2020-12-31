@@ -1,1 +1,1 @@
-# Tkinter_Fun
+# Tkinter samples for enjoing by coding
